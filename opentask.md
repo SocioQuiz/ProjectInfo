@@ -1,4 +1,6 @@
 Open Tasks
 =============
 
-- We need a cool logo.:)))
+- Cool logo.:)))
+- Email address
+- Domain name

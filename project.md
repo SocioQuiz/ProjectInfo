@@ -26,6 +26,7 @@ Github
   - Release Manager -> ??
   - Versioning
   - local: sqlite3, production: postgresql
+  - Mastering rails
 
 Mail Register
 ---------------

@@ -25,7 +25,7 @@ Github
   - Scrum Master -> Hiro
   - Release Manager -> ??
   - Versioning
-  - local: sqlite3, production: postgresql
+  - Local: sqlite3, Production: postgresql
   - Mastering rails
 
 Mail Register

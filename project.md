@@ -1,11 +1,44 @@
 Project management
 ===================
 
-- Heroku
-- Travis
-- Trello
-- Github
+Heroku
+-------------
+
+  - account
+  - use ruby 2.1.2
+
+Travis
+-------------
+
+  - security issue
+
+Trello
+-------------
+
+
+Github
+-------------
+
   - Pull Request -> merge
-  - Project Manager -> who?
-  - Release Manager -> who?
+  - Product Owner -> Khanh
+  - Project Manager -> ??
+  - Scrum Master -> Hiro
+  - Release Manager -> ??
   - Versioning
+  - local: sqlite3, production: postgresql
+
+Mail Register
+---------------
+
+  - how many people are already interested in my product??
+  - beta release notification
+  - update notification
+  - release notification
+  - newsletter
+
+Localization
+---------------
+
+  1. English
+  2. Vietnamese
+  3. Japanese

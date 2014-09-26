@@ -1,7 +1,7 @@
 Open Tasks
 =============
 
-- Cool logo.:)))
+- Cool logo.:))) <== Anyone that can create this one, please feel free upload here. 
 - Email address
 - Domain name
   - Available name list

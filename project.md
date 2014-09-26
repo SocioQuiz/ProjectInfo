@@ -6,6 +6,6 @@ Project management
 - Trello
 - Github
   - Pull Request -> merge
-  - Project Manager
-  - Release Manager
+  - Project Manager -> who?
+  - Release Manager -> who?
   - Versioning

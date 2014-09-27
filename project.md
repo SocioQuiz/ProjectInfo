@@ -1,6 +1,9 @@
 Project management
 ===================
 
+Vagrant
+-------------
+
 Heroku
 -------------
 

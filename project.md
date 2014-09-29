@@ -18,6 +18,11 @@ Travis
 Trello
 -------------
 
+Slack
+-------------
+
+My(yusuke) recommendation:)
+
 
 Github
 -------------
